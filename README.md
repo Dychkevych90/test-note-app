@@ -22,6 +22,7 @@ JSONPlaceholder – as a mock API.
 
 ## 📂 Folder Structure
 
+```plaintext
 notes-app/  
 │── public/                     # Static assets  
 │── src/                        # Main source code  
@@ -41,6 +42,7 @@ notes-app/
 │── tailwind.config.js          # Tailwind CSS config  
 │── tsconfig.json               # TypeScript config  
 │── README.md                   # Documentation  
+```
 
 ## 🛠️ Installation & Setup
 
