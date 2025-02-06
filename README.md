@@ -22,25 +22,25 @@ JSONPlaceholder – as a mock API.
 
 ## 📂 Folder Structure
 
-notes-app/
-│── public/                     # Static assets
-│── src/                        # Main source code
-│   ├── components/             # UI components
-│   │   ├── notes.tsx           # Notes list component
-│   │   ├── noteForm.tsx        # Add/Edit form
-│   │   ├── noteCard.tsx        # single note card
-│   ├── lib/                    # Business logic
-│   │   ├── db.ts               # RxDB setup
-│   │   ├── useNotes.ts         # Custom hook for notes logic
-│   ├── pages/                  # Next.js pages
-│   │   ├── index.tsx           # Main page
-│   ├── styles/                 # Global styles
-│   │   ├── globals.css         # Tailwind styles
-│── .gitignore                  # Git ignore file
-│── package.json                # Dependencies
-│── tailwind.config.js          # Tailwind CSS config
-│── tsconfig.json               # TypeScript config
-│── README.md                   # Documentation
+notes-app/  
+│── public/                     # Static assets  
+│── src/                        # Main source code  
+│   ├── components/             # UI components  
+│   │   ├── notes.tsx           # Notes list component  
+│   │   ├── noteForm.tsx        # Add/Edit form  
+│   │   ├── noteCard.tsx        # single note card  
+│   ├── lib/                    # Business logic  
+│   │   ├── db.ts               # RxDB setup  
+│   │   ├── useNotes.ts         # Custom hook for notes logic  
+│   ├── pages/                  # Next.js pages  
+│   │   ├── index.tsx           # Main page  
+│   ├── styles/                 # Global styles  
+│   │   ├── globals.css         # Tailwind styles  
+│── .gitignore                  # Git ignore file  
+│── package.json                # Dependencies  
+│── tailwind.config.js          # Tailwind CSS config  
+│── tsconfig.json               # TypeScript config  
+│── README.md                   # Documentation  
 
 ## 🛠️ Installation & Setup
 
